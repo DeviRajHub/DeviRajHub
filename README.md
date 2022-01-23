@@ -1,6 +1,6 @@
 - Hi, I’m Devi Raj. I've done my Bachelors in Mechanical Engineering from IIT Madras, India.
 - I'm a system engineering specialist at Bosch Intelligent Brake System division.
-- I’m interested in big data applications in mechatronic/Robotic systems.
+- I’m interested in big data applications in Mechatronic/Robotic systems.
 - Currently pursuing MITx micromasters in Statistics and Data Science.
 - Looking to collaborate on projects to make physical machines intelligent.
 - You can contact me on deviraj743@gmail.com
