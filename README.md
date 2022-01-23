@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Devi Raj. I've done my Bachelors in Mechanical Engineering from IIT Madras, India.
+- 👀 I’m interested in big data applications in mechatronic/Robotic systems.
+- 🌱 I’m currently pursuing MITx micromasters in Statistics and Data Science.
+- 💞️ I’m looking to collaborate on projects to make physical machines intelligent.
+- 📫 You can contact me on deviraj743@gmail.com
